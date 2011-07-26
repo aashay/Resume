@@ -1,6 +1,7 @@
 /**
  * Less based style sheet.
  * @author Nat Welch
+ Modified by Aashay Desai
  */
 
 @fg:     #333333;
@@ -17,8 +18,9 @@ body {
    color: @fg;
    line-height: 1.4em;
    background-color: @bg;
-   font-family: serif;
+   font-family: Helvetica;
    font-size: 0.9em;
+   letter-spacing:0.05em; 
 }
 
 /**
@@ -55,10 +57,11 @@ body {
       border-top: 4px solid @border;
       padding-top: 0.5em;
       margin-top: 1.5em;
+      float:left;
    }
 
    h1:first-child {
-      margin-top: 30px;
+      margin-top: 50px;
       padding-top: 0.25em;
       border-top: none;
       font-size: 200%;
@@ -110,7 +113,7 @@ body {
    }
 
    img {
-      max-width: 100%;
+      //max-width: 100%;
    }
 
    blockquote {
@@ -129,5 +132,25 @@ body {
       margin-left: 2em;
       margin-bottom: 1em;
    }
+   
+   
+   .contact {
+       float: right;
+       //padding:0 2px 2px 0;
+       margin-left: 0px;
+       margin-right: 0px;
+       margin-top: 0px;
+       margin-bottom: 0px;
+       //background-repeat: no-repeat;
+       //background-position: left center;
+       //margin: 0px 3px 0px 0px;
+   }
+   
+   /*.twitter {
+          //background: url('./images/twitter_16.png');
+          
+          background-repeat: no-repeat;
+          background-position: left bottom;
+      }*/
 }
 

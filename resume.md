@@ -1,75 +1,62 @@
-# Nathaniel Welch
+#Aashay Desai
 
- * <nat@natwelch.com>
- * <http://natwelch.com>
- * 707-799-8675
+<span class="contact phone">Phone: (415) 894-2331</span>  
+<span class="contact email">Email: aashayd@gmail.com</span>  
+<span class="contact twitter">Twitter: @aashay</span>  
+<span class="contact github">GitHub: @aashay</span>  
+<span class="contact web">Web: http://aashay.com</span>  
 
-## Background
 
-I am a current student of Computer Science at Cal Poly with an interest in communication and design. I am a big believer in experimenting with new things to expand my knowledge both professionally and recreationally. I strive to be a quick learner and both a competent leader and capable worker. I am an Eagle Scout and was an active officer of the Cal Poly Linux Users Group for three years. I was awarded Cal Poly's Residence Hall Council member of the year for both 2006 and 2007. In my free time I enjoy contributing to open source projects, hiking, reading and listening to music.
+##Projects
+###AnonyMouse – San Francisco, CA: December 2010 – Present
+Co-Founder, Technical Lead
+Currently building non-profit platform for anonymous mentoring using modern full-stack web development tools such as Node.JS, MongoDB, and various public APIs.  
 
-## Education
+##Work
 
-Computer Science, B.S.  
-Fall 2006 - Spring 2011  
-California Polytechnic State University, San Luis Obispo  
+###Salesforce.com – San Francisco, CA: October 2008 to Present
+*Senior Member, Technical Staff – Quality Engineering: March 2011 to Present*  
+*Member, Technical Staff – Quality Engineering: October 2009 to March 2011*  
+*Associate Member, Technical Staff – Quality Engineering: October 2008 to October 2009*  
 
-## Systems Proficiency
+Quality Engineer on Force.com API, formerly on Salesforce Knowledge.  
 
-**Programming Languages**
+* Responsible for maintaining test automation suites and QA processes on features such as REST API, Apex REST, Streaming API (CometD), and SOAP APIs.  
+* Participating in secondary initiatives such as implementing GitHub:FI, redesigning build automation systems, and encouraging engineers to participate in open-source projects.  
+* Helped design and implement Knowledge 1.0 automated test suites  
+* Regularly mentor new hires and participate in technical job interviews for new candidates  
+* Empowered teammates as Scrum Master on Knowledge through the use of in-house agile project management process  
 
- > Proficient in:  PHP, Ruby, SML/NJ, HTML, CSS, JavaScript, C, Java, SQL (MySQL, SQLite), Bash
+###Junction Solutions – Lincolnshire, IL: June 2007 to October 2008
+*Senior Consultant: June 2008 to October 2008*  
+*Consultant: June 2007 to June 2008*  
 
- > Experience with: F#, Python, C++, MongoDB
+Responsible for client consultation, project management, software design, quality assurance, and support using customized Microsoft Dynamics AX Multi-Channel Retail ERP vertical.  
+####Projects:  
+**Bay Area Coffee Manufacturer: June 2008 to October 2008**   
 
-**Software**
+* Managed requirements gathering during design phase as project technical lead.   
+* Evangelized Test-Driven Development using xUnit-style framework built into MorphX IDE.
+  
+**Skating, Snowboard, and Surfing retailer: February 2008 to June 2008**  
 
- > I have experience using most modern development tools including Eclipse, Vim, Git and SVN. I have been using Linux for both personal and server use since 2002. I am also capable of using the majority of the Adobe Creative Suite.
+* Designed and tested Wireless Warehouse inventory management system.  
+* Directed end-user training for various functional areas prior to go-live on Dynamics AX.  
 
-## Experience
+**Prison Supply Company: August 2007 to February 2008**  
 
-### iFixit.com, San Luis Obispo CA
+* Developed and documented modifications on Dynamics AX platform in Inventory Management, Order Management, and Financials modules.   
+* Performed quality checks after go-live to ease support processes after roll-off.  
 
-#### Software Developer - April 2009 to April 2011
+##Education  
+###University of Illinois Urbana-Champaign:	May 2007  
+**Bachelor of Science - General Engineering**  
+Concentration: Engineering Administration, Technology Commercialization  
 
-I wear a variety of hats including -- but not limited to -- writing code to promote high quality content and a stable community, helping keep servers afloat, and working with users to develop content. I write code mainly in PHP and Bash, and almost all of our servers are on Amazon's EC2 Service. 
+##Skills  
+**Proficient in:** Java, Eclipse, Selenium, JUnit, Linux, OS X, Windows9x/NT/XP/Vista/7  
+**Experience in:** JavaScript, Node.JS, MongoDB, git, (X)HTML/CSS, SQL  
 
- * Helped create a site-wide reputation community, which began with [iFixit.com/Answers](http://ifixit.com/Answers)
- * Helped maintain various servers, located on Amazon EC2, and local development machines
- * Developed the first JavaScript widget for iFixit's API.
- * Redefined iFixit's developer work flow
-
-### Adobe Systems Incorporated, San Francisco CA
-
-#### Dreamweaver Quality Engineering Intern - Summer 2007 and 2008
-
- * Tested both daily builds and released versions of Dreamweaver against various operating systems -- including Mac OSX 10.4, Mac OSX 10.5, Windows Vista, and Windows XP.
- * Helped maintain the Server Matrix, Bug-base, and test a new test case application
- * Helped develop and test the Web Widgets Feature for Dreamweaver CS4, which won the "Dreamweaver Community Feature of the Year" award in 2008.
-
-<!--
-### California Polytechnic State University, San Luis Obispo CA
-
-#### Computer Science Lab Monitor - September 2006 to June 2007
-
- * Maintained printers and computers for seven labs.
-
-### Sonoma County Information Systems Department, Santa Rosa CA
-
-#### Intern
-
-##### June 2005 to Sept. 2005
- 
- * Built and maintained three separate websites, one dealing with unions, one system uptime web application, and one error reporting web form.
--->
-
-### BSA Camp Oljato, Lakeshore CA
-
-#### Nature Director - Summer 2006
-#### Camp Counselor - Summer 2002, 2003 and 2004
-
- * In charge of four staff members and responsible for planning the activities behind and maintaining the entire Nature area at camp, with an average of about 200 kids every week for seven weeks.
- * Updated and revised the Forest Management Plan and organized conservation projects throughout camp.
- * Took care of children ages ten to eighteen and responsible for creating and planning daily schedules for my classes.
- * Taught merit badge classes such as wilderness survival, camping, hiking, and others.
+##Achievements  
+2nd Place, Change.org “Hack For Change” hackathon	June 2011  
 
