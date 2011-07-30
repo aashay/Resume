@@ -8,7 +8,8 @@
 
 ##Projects
 ###AnonyMouse – San Francisco, CA: December 2010 – Present
-Co-Founder, Technical Lead
+*Co-Founder, Technical Lead*
+
 Currently building non-profit platform for anonymous mentoring using modern full-stack web development tools such as NodeJS, MongoDB, and various public APIs  
 
 ##Work
