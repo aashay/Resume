@@ -1,7 +1,7 @@
 #Aashay Desai
 
 <span class="contact phone">Phone: (415) 894-2331</span>  
-<span class="contact email">[Email: aashayd@gmail.com](mailto:aashayd@gmail.com)</span>  
+<span class="contact email"><a href="mailto:aashayd@gmail.com">Aashay<strong>D</strong>@gmail.com</a></span>  
 <span class="contact twitter">[Twitter: @aashay](http://twitter.com/aashay)</span>  
 <span class="contact github">[GitHub: @aashay](http://github.com/aashay)</span>  
 <span class="contact web">[Web: http://aashay.com](http://aashay.com)</span>  
