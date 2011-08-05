@@ -58,5 +58,5 @@ Concentration: Engineering Administration, Technology Commercialization
 **Experience in:** JavaScript, NodeJS, MongoDB, git, (X)HTML/CSS, SQL  
 
 ##Achievements  
-2nd Place, Changeorg “Hack For Change” hackathon:   June 2011  
+2nd Place, Change.org “Hack For Change” hackathon:   June 2011  
 
