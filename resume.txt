@@ -19,7 +19,7 @@ Building and maintaining services that power the cloud behind our scalable publi
 * Simplifying automation using tools such as Jenkins CI and Puppet
 
 ###Salesforce.com – San Francisco, CA: October 2008 to October 2011
-*Senior Member, Technical Staff – Quality Engineering: March 2011 to Present*  
+*Senior Member, Technical Staff – Quality Engineering: March 2011 to October 2011*  
 *Member, Technical Staff – Quality Engineering: October 2009 to March 2011*   
 *Associate Member, Technical Staff – Quality Engineering: October 2008 to October 2009*  
 
