@@ -38,7 +38,6 @@ Responsible for client consultation, project management, software design, qualit
 * Managed requirements gathering during design phase as project technical lead   
 * Evangelized Test-Driven Development using xUnit-style framework built into MorphX IDE
 * Designed and tested Wireless Warehouse inventory management system and developed end-user training
-* Developed and documented modifications on Microsoft Dynamics AX platform
 
 ##Projects
 ###AnonyMouse – San Francisco, CA: December 2010 – December 2013
@@ -51,6 +50,6 @@ Built non-profit platform for anonymous mentoring using modern web development t
 Concentration: Engineering Administration, Technology Commercialization  
 ##Skills and Achievements
 **Languages:** Python, JavaScript, Java  
-**Tools &amp; platforms:** NodeJS, Redis, MongoDB, git, Selenium.  Jenkins, Puppet, bash. Linux, OS X, Windows. 
+**Tools &amp; platforms:** NodeJS, Redis, MongoDB, git, Selenium.  Jenkins, Puppet, bash. Linux, OS X, Windows.   
 **Awards:** 1st Place, Toastmasters International Speech Contest Area E1 (Spring 2013); 2nd Place, Change.org “Hack For Change” hackathon (June 2011)
 
