@@ -25,7 +25,7 @@ Building and maintaining services that power the cloud behind our scalable publi
 
 Quality Engineer on Force.com API, formerly on Salesforce Knowledge  
 
-* Responsible for maintaining test automation suites and QA processes on features such as REST API, Apex REST, Streaming API (CometD), and SOAP APIs  
+* Responsible for maintaining test automation suites and QA processes on features such as REST API, Apex, Streaming API (CometD), and SOAP APIs  
 * Helped design and implement Knowledge 1.0 automated test suites  
 * Mentor new hires and participate in technical job interviews for new candidates  
 * Empowered teammates as Scrum Master on Knowledge through the use of in-house agile project management process  
