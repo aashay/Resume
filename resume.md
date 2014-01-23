@@ -51,5 +51,5 @@ Concentration: Engineering Administration, Technology Commercialization
 ##Skills and Achievements
 **Languages:** Python, JavaScript, Java  
 **Tools &amp; platforms:** NodeJS, Redis, MongoDB, git, Selenium.  Jenkins, Puppet, bash. Linux, OS X, Windows.   
-**Awards:** 1st Place, Toastmasters International Speech Contest Area E1 (Spring 2013); 2nd Place, Change.org “Hack For Change” hackathon (June 2011)
+**Awards:** 1st Place, Toastmasters International Speech Contest Area E1 (Spring 2013); Toastmasters Money Talks Club Speaker of the Year (2012, 2013); 2nd Place, Change.org “Hack For Change” hackathon (June 2011)
 
