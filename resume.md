@@ -5,7 +5,14 @@
 <span class="contact github">[GitHub: @aashay](http://github.com/aashay)</span>  
 <span class="contact web">[Web: http://aashay.com](http://aashay.com)</span>  
 
-##Experience
+##Experience 
+###Cotap - San Francisco, CA: March 2014 to Present
+*Senior Software Engineer - March 2014 to Present*
+* Designing cloud-based infrastructure on Amazon AWS in a DevOps role.  
+* Building infrastructure using Amazon Web Services such as EC2, S3, and CloudFormation
+* Integrated logging infrastructure for higher visibility across services
+* Participating in weekly on-call rotation
+
 ###Inkling - San Francisco, CA: October 2011 to Present
 *Web Operations Engineer - October 2011 to Present*
 
