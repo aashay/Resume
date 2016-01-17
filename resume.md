@@ -9,13 +9,13 @@
 
 Technical liaison and thought partner to developers, helping them deliver amazing experiences to the K-12 classroom
 
-* Establishing relationships with teams at some of the largest names in EdTech—such as Scholastic, Instructure, Amazon, and NWEA—to small startups building integrations on the Clever REST API + OAuth2-based platform
+* Establishing relationships with teams at some of the largest names in EdTech, such as Scholastic, Instructure, Amazon, and NWEA, to small startups building integrations on the Clever REST API + OAuth2-based platform
 * Collaborating with Account Management to lead technical onboardings, integration planning and review, and production support
 * Developing processes around integration quality, revising API documentation, assisting in maintenance of community-supported libraries, and serving as technical support contact via ZenDesk.
 
 ###Cotap - San Francisco, CA: March 2014 to August 2014 (*Senior Software Engineer*)
 
-* Designing cloud-based infrastructure on Amazon Web Services such as EC2, S3, and CloudFormation in a DevOps role.  
+* Designed cloud-based infrastructure on Amazon Web Services such as EC2, S3, and CloudFormation in a DevOps role.  
 * Integrated logging infrastructure for higher visibility across services  
 
 ###Inkling - San Francisco, CA: October 2011 to March 2014 (*Web Operations Engineer*)
@@ -48,7 +48,7 @@ Responsible for client consultation, project management, software design, QA, an
 Built non-profit platform for anonymous mentoring using modern web development tools such as NodeJS, MongoDB, and various public APIs  
 
 ##Education  
-###University of Illinois Urbana-Champaign:	May 2007  
+###University of Illinois Urbana-Champaign: May 2007  
 **Bachelor of Science - General Engineering**  
 Concentration: Engineering Administration, Technology Commercialization  
 ##Skills and Achievements
