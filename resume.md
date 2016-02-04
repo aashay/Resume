@@ -5,7 +5,7 @@
 <span class="contact web">[Web: http://aashay.com](http://aashay.com)</span>  
 
 ##Experience 
-###Clever - San Francisco, CA: October 2014 to Present (*Developer Relations Manager*)
+###Clever - San Francisco, CA: October 2014 to Present (*Developer Relations Manager/Partner Engineer*)
 
 Technical liaison and thought partner to developers, helping them deliver amazing experiences to the K-12 classroom
 
