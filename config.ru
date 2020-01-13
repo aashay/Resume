@@ -1,3 +1,4 @@
-## Just run the application
-require './resume'
-run Sinatra::Application
+#! /usr/bin/env rackup
+require 'rubygems'
+require 'middleman/rack'
+run Middleman.server
